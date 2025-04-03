@@ -53,8 +53,4 @@ make clean
 ## Notes
 - This module operates at the kernel level and requires root privileges.
 - Make sure to recompile it if you update your kernel.
-
-## License
-This module is open-source and released under the **GPL-2.0 License**.
-
 ---
